@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Parque Ibirapuera",
+    "categoria": "Parques",
+    "bairro": "Vila Mariana",
+    "descricao": "O principal parque da cidade, com lagos, museus e pistas de caminhada.",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Parque_do_ibirapuera_visto_do_c%C3%A9u.jpg/330px-Parque_do_ibirapuera_visto_do_c%C3%A9u.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "MASP",
+    "categoria": "Museus",
+    "bairro": "Bela Vista",
+    "descricao": "Museu de Arte de São Paulo, famoso pelo prédio suspenso na Avenida Paulista.",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vista_a%C3%A9rea_de_la_Avenida_Paulista_de_S%C3%A3o_Paulo_05.jpg/330px-Vista_a%C3%A9rea_de_la_Avenida_Paulista_de_S%C3%A3o_Paulo_05.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Mercadão (Mercado Municipal)",
+    "categoria": "Comida",
+    "bairro": "Centro",
+    "descricao": "Famoso pelo sanduíche de mortadela e pela pastel de bacalhau.",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ROGERIOCASSIMIRO_MERCADOMUNICIPAL_SAOPAULO_SP_%2840066551745%29.jpg/330px-ROGERIOCASSIMIRO_MERCADOMUNICIPAL_SAOPAULO_SP_%2840066551745%29.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Beco do Batman",
+    "categoria": "Museus",
+    "bairro": "Vila Madalena",
+    "descricao": "Viela coberta de grafites, com arte urbana que muda com frequência.",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Beco_do_Batman.png/330px-Beco_do_Batman.png"
+  },
+  {
+    "id": 5,
+    "nome": "Parque Villa-Lobos",
+    "categoria": "Parques",
+    "bairro": "Alto de Pinheiros",
+    "descricao": "Grande área verde às margens do rio Pinheiros, ótima para bicicleta.",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/S%C3%A3o_Paulo_Skyline_Marginal_Pinheiros.JPG/330px-S%C3%A3o_Paulo_Skyline_Marginal_Pinheiros.JPG"
+  },
+  {
+    "id": 6,
+    "nome": "Rua Augusta",
+    "categoria": "Comida",
+    "bairro": "Consolação",
+    "descricao": "Rua cheia de bares e restaurantes, boa para experimentar a vida noturna paulistana.",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Rua_Augusta_esq_Luis_Coelho.jpg/330px-Rua_Augusta_esq_Luis_Coelho.jpg"
+  }
+]

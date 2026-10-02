@@ -1,0 +1,42 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+  border: 1px solid #e0ddd3;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.card-imagem {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-conteudo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px;
+}
+
+.card-categoria {
+  font-size: 0.8rem;
+  color: #777;
+}
+
+.card-botao {
+  margin-top: 8px;
+  padding: 8px;
+  border: 1px solid #1f3a2e;
+  background-color: transparent;
+  color: #1f3a2e;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.card-botao:hover {
+  background-color: #1f3a2e;
+  color: #fff;
+}

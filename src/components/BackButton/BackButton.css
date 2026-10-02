@@ -1,0 +1,26 @@
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 20px;
+  padding: 8px 16px;
+  border: 1px solid #1f3a2e;
+  border-radius: 999px;
+  color: #1f3a2e;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.back-button:hover {
+  background-color: #1f3a2e;
+  color: #fdfaf3;
+}
+
+.back-button-seta {
+  transition: transform 0.15s ease;
+}
+
+.back-button:hover .back-button-seta {
+  transform: translateX(-3px);
+}
