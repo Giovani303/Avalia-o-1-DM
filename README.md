@@ -58,10 +58,4 @@ src/
 └── main.jsx
 ```
 
-## Deploy
 
-Aplicação publicada na Vercel: **[cole aqui o link da sua aplicação]**
-
-## Autor(a)
-
-[Seu nome aqui]
