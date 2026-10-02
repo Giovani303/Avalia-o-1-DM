@@ -31,15 +31,6 @@ e copiando o valor completo de `thumbnail.source` (atenção: o nome do arquivo 
 
 A pasta `public/imagens/` existe apenas como alternativa, caso você prefira usar fotos próprias — nesse caso, troque o valor de `"imagem"` no JSON por um caminho local, como `/imagens/ibirapuera.jpg`.
 
-## Como rodar localmente
-
-```bash
-npm install
-npm run dev
-```
-
-Acesse `http://localhost:5173`.
-
 ## Estrutura de pastas
 
 ```
